@@ -1,0 +1,16 @@
+﻿  MyGrid.cpp
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(57,15): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(59,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(81,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(84,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(218,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(220,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(230,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(232,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(249,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(251,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(271,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(274,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(289,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\workspace\ECE6122\2\Project1\MyGrid.cpp(292,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\workspace\ECE6122\2\Project1\Debug\Project1.exe

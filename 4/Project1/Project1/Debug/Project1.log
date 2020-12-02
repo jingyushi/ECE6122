@@ -1,0 +1,10 @@
+﻿  ECE_Coin.cpp
+  ECE_Ghost.cpp
+  ECE_Mobile.cpp
+  ECE_Pacman.cpp
+  ECE_Wall.cpp
+  main.cpp
+D:\workspace\ECE6122\4\main.cpp(469,9): warning C4101: “j”: 未引用的局部变量
+D:\workspace\ECE6122\4\main.cpp(469,6): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+  Project1.vcxproj -> D:\workspace\ECE6122\4\Project1\Debug\Project1.exe

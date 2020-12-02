@@ -1,0 +1,2 @@
+C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2020\OpenGL\SimpleTexture\Debug\SimpleTexture.exe
+C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2020\OpenGL\SimpleTexture\Debug\SimpleTexture.pdb

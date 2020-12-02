@@ -1,0 +1,5 @@
+﻿  main_simpletexture.cpp
+C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2020\OpenGL\SimpleTexture\main_simpletexture.cpp(188,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2020\OpenGL\SimpleTexture\main_simpletexture.cpp(192,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2020\OpenGL\SimpleTexture\main_simpletexture.cpp(196,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SimpleTexture.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2020\OpenGL\SimpleTexture\Debug\SimpleTexture.exe

@@ -1,0 +1,5 @@
+﻿  prob2.cpp
+D:\workspace\ECE6122\3\prob2.cpp(107,15): warning C4244: “初始化”: 从“long double”转换到“float”，可能丢失数据
+  prob3.cpp
+D:\workspace\ECE6122\3\prob3.cpp(36,47): error C3036: “max”: OpenMP“reduction”子句中的运算符标记无效
+  正在生成代码...
